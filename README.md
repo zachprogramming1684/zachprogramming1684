@@ -7,16 +7,16 @@ I am currently pursuing my Bachelor's degree in Computer Science at the Universi
 💡 Projects  
 Here are some projects I have made so far that showcase my skills and problem-solving abilities:  
 
-1. Task Tracker App
-   - This is a simple Command Line Interface application for keeping track of tasks. The user can add, update, delete, change markings, and list all tasks directly from the terminal. All task data is stored in a JSON file.
+1. Expense Tracker App
+   - This is a simple Command Line Interface Application for keeping track of expenses. The user can add, update, and delete expenses directly from the termianl. The user can also view all expenses and the total cost of all expenses. All Expense data is stored in a .CSV file.
    - Written in Java.
    - Key Features:
-     - Add a task.
-     - Update description for a given task.
-     - Delete a task.
-     - Mark a task as in-progress or done.
-     - List all tasks.
-   - Repository Link: https://github.com/zachprogramming1684/Task-Tracker-CLI
+     - Add an expense with a description and amount.
+     - Update the amount and/or description of an expense.
+     - Delete an expense.
+     - View all expenses.
+     - View total cost of all expenses.
+   - Repository Link: https://github.com/zachprogramming1684/ExpenseTrackerCLI
 
 2. GitHub User Activity Fetcher  
    - This is a simple Command Line Interface application for getting recent GitHub activity of a user.
