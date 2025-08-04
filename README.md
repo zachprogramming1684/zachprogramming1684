@@ -8,8 +8,8 @@ I am currently pursuing my Bachelor's degree in Computer Science at the Universi
 Here are some projects I have made so far that showcase my skills and problem-solving abilities:  
 
 1. Mock Banking Application
-   - This is a simple, Mock Banking App that lets users open accounts, deposit money, withdraw money, and more. This program saves data directly to the machine using CSV files.
-   - Written in Java.
+   - This is a simple, GUI Mock Banking App that lets users open accounts, deposit money, withdraw money, and more. This program saves data directly to the machine using CSV files.
+   - Written in Java with Swing GUI elements.
    - Key Features:
       - Open an account.
       - Delete an account.
