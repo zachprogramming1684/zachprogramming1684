@@ -7,7 +7,19 @@ I am currently pursuing my Bachelor's degree in Computer Science at the Universi
 💡 Projects  
 Here are some projects I have made so far that showcase my skills and problem-solving abilities:  
 
-1. Expense Tracker App
+1. Mock Banking Application
+   - This is a simple, Mock Banking App that lets users open accounts, deposit money, withdraw money, and more. This program saves data directly to the machine using CSV files.
+   - Written in Java.
+   - Key Features:
+      - Open an account.
+      - Delete an account.
+      - View account details.
+      - Deposit money.
+      - Withdraw money.
+      - Change username and password.
+   - Repository Link: https://github.com/zachprogramming1684/Mock-Banking-App
+
+2. Expense Tracker App
    - This is a simple Command Line Interface Application for keeping track of expenses. The user can add, update, and delete expenses directly from the termianl. The user can also view all expenses and the total cost of all expenses. All Expense data is stored in a .CSV file.
    - Written in Java.
    - Key Features:
@@ -18,20 +30,11 @@ Here are some projects I have made so far that showcase my skills and problem-so
      - View total cost of all expenses.
    - Repository Link: https://github.com/zachprogramming1684/ExpenseTrackerCLI
 
-2. GitHub User Activity Fetcher  
+3. GitHub User Activity Fetcher  
    - This is a simple Command Line Interface application for getting recent GitHub activity of a user.
    - Written in Java.
-   - This program makes use of th GitHub API for fetching recent user activity.
+   - This program makes use of the GitHub API for fetching recent user activity.
    - Repository Link: https://github.com/zachprogramming1684/GitHub-User-Activity
-
-3. Number Guessing Game
-   - This is a simple number guessing game versus the machine that is designed to be run in a command line until the user decides to quit.
-   - Written in Java.
-   - Key Features:
-     - Gives the user a certain number of chances to guess the correct number.
-     - Tells the user if they guessed two high or too low after every guess.
-     - Lets the user play again until they decide to quit.
-   - Repository Link: https://github.com/zachprogramming1684/Number-Guessing-Game
 
 🤝 Connect With Me  
 - LinkedIn: www.linkedin.com/in/zachary-moore-287282368
