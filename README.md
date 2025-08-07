@@ -20,7 +20,7 @@ Here are some projects I have made so far that showcase my skills and problem-so
    - Repository Link: https://github.com/zachprogramming1684/Mock-Banking-App
 
 2. Expense Tracker App
-   - This is a simple Command Line Interface Application for keeping track of expenses. The user can add, update, and delete expenses directly from the termianl. The user can also view all expenses and the total cost of all expenses. All Expense data is stored in a .CSV file.
+   - This is a simple Command Line Interface Application for keeping track of expenses. The user can add, update, and delete expenses directly from the terminal. The user can also view all expenses and the total cost of all expenses. All Expense data is stored in a .CSV file.
    - Written in Java.
    - Key Features:
      - Add an expense with a description and amount.
