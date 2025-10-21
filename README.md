@@ -1,5 +1,5 @@
 ## About me 
-I am currently pursuing my Bachelor's degree in Computer Science at the University of North Florida, where I have developed a strong foundation in Object Oriented Programming utilizing the Java language. I am currently exploring various fields of software development to find the best fit for me. Through my studies, I will gain a strong understanding of data structures, algorithms, software design, and various important technologies.  
+I am a driven, passionate Computer Science student looking to expand my professional experience and apply my problem solving skills as a software engineer. I am constantly striving to learn new technologies and get the most out of my coursework!
 
 
 ## Projects  
