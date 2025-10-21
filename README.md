@@ -3,7 +3,6 @@ I am a driven, passionate computer science student looking to expand my professi
 
 
 ## Projects  
-Here are some projects I have made so far that showcase my skills and problem-solving abilities:  
 
 1. Mock Banking Application
    - This is a simple, GUI Mock Banking App that lets users open accounts, deposit money, withdraw money, and more. This program saves data directly to the machine using CSV files.
