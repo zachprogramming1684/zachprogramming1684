@@ -2,7 +2,7 @@
 I am a driven, passionate computer science student looking to expand my professional experience and apply my problem solving skills as a backend software engineer. I am constantly striving to learn new technologies and get the most out of my coursework!
 
 ## Projects  
-1. Car Comparison API
+1. Car Comparison API (https://backend-api-408937399638.us-east1.run.app/)
    - This is a robust RESTful API for managing and comparing vehicle data, deployed as a serverless container on Google Cloud Platform.
    - Tech Stack: Java 17 | Spring boot 3.3.5 | Maven | PostgreSQL | Docker | Google Cloud Run | JUnit 5 and Mockito
    - Key Features:
