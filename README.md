@@ -1,5 +1,5 @@
 ## About me 
-I am a driven, passionate computer science student looking to expand my professional experience and apply my problem solving skills as a backend software engineer. I am constantly striving to learn new technologies and get the most out of my coursework!
+I am a driven, passionate computer science student looking to expand my professional experience and apply my problem solving skills as a software engineer. I am constantly striving to learn new technologies and get the most out of my coursework!
 
 ## Projects  
 1. Car Comparison API
